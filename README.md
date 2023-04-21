@@ -46,7 +46,7 @@ for i in range(n):
 
 ```
 ## output:
-![model](.\out1.png)
+![model](./out1.png)
 
 
 ## Result:
